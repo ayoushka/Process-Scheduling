@@ -1,4 +1,4 @@
-#  python Process Scheduling Algorithms
+#  Process-Scheduling
 
 This project implements three different process Scheduling algorithms: First Come Fist Served (FCFS), Shortest Job Next (SJN), and Round Robin (RR).This code calculates completion time for each process and generates a Gantt chart to visualize the Scheduling order.
 
