@@ -24,7 +24,7 @@ To run this project, ensure you have python installed on your system. You can do
 
 Clone this repository:
 ```bash
-git clone [https://github.com/ayoushka/Process-Scheduling.git](https://github.com/ayoushka/Process-Scheduling.git)
+git clone https://github.com/ayoushka/Process-Scheduling.git
 cd Process-Scheduling
 
 ##Usage
