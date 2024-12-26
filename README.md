@@ -28,7 +28,7 @@ git clone https://github.com/ayoushka/Process-Scheduling.git
 cd Process-Scheduling
 
 ##Usage
-Bash
+```bash
 python main.python
 
 ##Examples
