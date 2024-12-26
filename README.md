@@ -76,7 +76,7 @@ Enter burst time for process P3: 8
 Enter time quantum: 2
 
 ##Contributing
-Feel free to open issues or submit pull requests>
+Feel free to open issues or submit pull requests.
 
 ##Licence
 This project is licensed under the MIT License.See the LICENSE file for more details.
